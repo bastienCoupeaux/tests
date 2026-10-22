@@ -19,7 +19,7 @@ public class Test1JavaFX {
                     + " sur Java " + System.getProperty("java.version") + " Voila le test");
             stage.setScene(new Scene(new StackPane(label), 400, 200));
             stage.setTitle("Test 1 - JavaFX");
-            stage.show();
+            stage.show(); // hfhfhffhf
         }
     }
 }
